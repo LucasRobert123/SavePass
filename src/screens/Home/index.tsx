@@ -64,8 +64,8 @@ export function Home() {
     <>
       <Header
         user={{
-          name: "Rocketseat",
-          avatar_url: "https://i.ibb.co/ZmFHZDM/rocketseat.jpg",
+          name: "Lucas",
+          avatar_url: "https://ui-avatars.com/api/?name=Lucas&length=1",
         }}
       />
       <Container>
