@@ -52,3 +52,10 @@ $ yarn ios
 # Rodar o app (Android)
 $ yarn android
 ```
+
+## :memo: Licença
+Este projeto está sob a licença MIT. Veja a [LICENÇA](https://github.com/LucasRobert123/SavePass/blob/master/LICENCE.txt) para mais informações.
+
+---
+
+Feito ♥ por Lucas Abreu :wave: [Entre em contato!](http://linkedin.com/in/lucas-robert-de-abreu-4a74ab1b9)
