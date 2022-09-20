@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img alt="Demo on Netlify"  src="./github/gofinances.gif">
+  <img alt="Demo on Netlify"  src="./github/savepass.gif">
 </p>
 
 ## :rocket: Tecnologias
